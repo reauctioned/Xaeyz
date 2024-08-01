@@ -1,0 +1,15 @@
+@import url('https://db.onlinewebfonts.com/c/ad3442c68e648d104bd36961085c595e?family=Cissarz+Latein+NF+W01+Regular');
+
+.navbar {
+    font-family: "Cissarz Latein NF W01 Regular";
+    font-weight: bold;
+    text-align: center;
+    font-size: 5vw;
+    padding: 2vw;
+}
+
+/* .globe-image{
+  height: 170px;
+  margin-bottom: 100px;
+  position-x: ;
+} */
